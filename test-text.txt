@@ -1,1 +1,1 @@
-vlxx
+ssh-keygen -t ed25519 -C "nqlcoder@gmail.com"
